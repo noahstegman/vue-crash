@@ -3,36 +3,60 @@
         "id": 1,
         "name": "Chevy",
         "price": 15000,
-        "year": 2015
+        "year": 2015,
+        "contact": {
+            "dealer": "bob",
+            "number": "111-111-1111"
+        }
     },
     {
         "id": 2,
         "name": "Tesla",
         "price": 69999,
-        "year": 2020
+        "year": 2020,
+        "contact": {
+            "dealer": "bob",
+            "number": "111-111-1111"
+        }
     },
     {
         "id": 3,
         "name": "Mercedes",
         "price": 15123,
-        "year": 2019
+        "year": 2019,
+        "contact": {
+            "dealer": "bob",
+            "number": "111-111-1111"
+        }
     },
     {
         "id": 4,
         "name": "Ford",
         "price": 5333,
-        "year": 1883
+        "year": 1883,
+        "contact": {
+            "dealer": "bob",
+            "number": "111-111-1111"
+        }
     },
     {
         "id": 5,
         "name": "Toyota",
         "price": 13444,
-        "year": 2012
+        "year": 2012,
+        "contact": {
+            "dealer": "bob",
+            "number": "111-111-1111"
+        }
     },
     {
         "id": 6,
         "name": "Daimler",
         "price": 99999999,
-        "year": 2026
+        "year": 2026,
+        "contact": {
+            "dealer": "bill",
+            "number": "222-222-2222"
+        }
     }
 ]
